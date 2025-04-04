@@ -16,4 +16,4 @@ I'm a Biological Scientist who specializes in applying transcriptomics, imaging,
 - [Bulk RNA-seq Analysis](link)
 - [scRNA-seq of Zebrafish Development](link)
 - [Two-Photon Imaging Analysis](link)
-- [Fraxinus Genome Assembly](link)
+- [Fraxinus Mandshurica _De Novo__ Genome Assembly](link)
