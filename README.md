@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm George W Kagugube
 
-<!--
-**GeorgeKagugube/GeorgeKagugube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biological Scientist who specializes in applying transcriptomics, imaging, and computational approaches to understanding metal neurotoxicity.
 
-Here are some ideas to get you started:
+## 🔬 Current Focus (Metal neurotoxicity, through genomics and computational approaches)
+- Bulk and single-cell RNA-seq
+- Genome assembly & annotation
+- Neural activity analysis from calcium imaging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Languages
+- R, Python, Bash
+- STAR, DESeq2, Seurat, Shasta, BRAKER3
+- Git, Snakemake, Linux/Unix
+
+## 📁 Featured Projects
+- [Bulk RNA-seq Analysis](link)
+- [scRNA-seq of Zebrafish Development](link)
+- [Two-Photon Imaging Analysis](link)
+- [Fraxinus Genome Assembly](link)
