@@ -16,6 +16,6 @@ I'm a Biological Scientist who specializes in applying transcriptomics, imaging,
 
 ## 📁 Featured Projects
 - [Bulk RNA-seq Analysis](https://github.com/GeorgeKagugube/bulk-rnaseq-zebrafish-mouse-human)
-- [scRNA-seq of Zebrafish Development](link)
+- [scRNA-seq of Zebrafish Development](https://github.com/GeorgeKagugube/scRNAseq-zebrafish-development)
 - [Two-Photon Imaging Analysis](link)
 - [Fraxinus Mandshurica _De Novo__ Genome Assembly](link)
