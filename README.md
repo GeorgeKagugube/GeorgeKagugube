@@ -7,8 +7,10 @@ I'm a Biological Scientist who specializes in applying transcriptomics, imaging,
 - Genome assembly & annotation
 - Neural activity analysis from calcium imaging
 
-## 🛠 Tools & Languages
-- R, Python, Bash
+## Languages
+- R, Python, Bash AND C 
+
+## 🛠 Tools 
 - STAR, DESeq2, Seurat, Shasta, BRAKER3
 - Git, Snakemake, Linux/Unix
 
