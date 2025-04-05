@@ -1,18 +1,16 @@
 # 👋 Hi, I'm George W Kagugube
 
-I'm a Biological Scientist who specializes in applying transcriptomics, imaging, and computational approaches to understanding metal neurotoxicity.
+I'm a Biological Scientist specialising in applying transcriptomics, imaging, and computational approaches to understanding metal neurotoxicity.
 
 ## 🔬 Current Focus (Metal neurotoxicity, through genomics and computational approaches)
 - Bulk and single-cell RNA-seq
 - Genome assembly & annotation
 - Neural activity analysis from calcium imaging
 
-## Languages
-- R, Python, Bash AND C 
-
-## 🛠 Tools 
+## 🛠 Tools and Languages
 - STAR, DESeq2, Seurat, Shasta, BRAKER3
 - Git, Snakemake, Linux/Unix
+- R, Python, Bash AND C
 
 ## 📁 Featured Projects
 - [Bulk RNA-seq Analysis](https://github.com/GeorgeKagugube/bulk-rnaseq-zebrafish-mouse-human)
