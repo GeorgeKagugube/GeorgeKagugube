@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George W Kagugube
 
-I'm a Biological Scientist specialising in applying transcriptomics, imaging, and computational approaches to understanding metal neurotoxicity.
+I am a Biological Scientist interested in applying genomics, imaging and computational approaches to understanding metal neurotoxicity.
 
 ## 🔬 Current Focus (Metal neurotoxicity, through genomics and computational approaches)
 - Bulk and single-cell RNA-seq
