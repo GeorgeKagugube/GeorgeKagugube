@@ -18,7 +18,7 @@ I'm a Biological Scientist specialising in applying transcriptomics, imaging, an
 - [Two-Photon Imaging Analysis](https://github.com/GeorgeKagugube/two-photon-calcium-zebrafish)
 - [Fraxinus Mandshurica _De Novo_ Genome Assembly](https://github.com/GeorgeKagugube/fraxinus-genome-assembly)
 
-# Publications
+# 📁 Publications
 
 Issit, T. et al. The hepcidin-ferroportin axis influences mitochondrial function, proliferation, and migration in pulmonary artery endothelial and smooth muscle cells. doi: https://doi.org/10.1101/2023.10.09.561497
 
