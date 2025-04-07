@@ -25,4 +25,3 @@ Issit, T. et al. The hepcidin-ferroportin axis influences mitochondrial function
 Cui, J. (Katie) et al. Impact of Pathological Vascular Remodelling on Right Ventricular Mechanics. Computational Physiology: Simula Summer School 2022 − Student Reports (ed. McCabe, K. J.) 91–109 (Springer Nature Switzerland, 2023). doi:10.1007/978-3-031-25374-4_7.
 
 Atkinson, L., Basharat, A., Benson, A. P., Colman, M. A., Holden, A. V, Kagugube, G. W., & Pervolaraki, E. 92016). Computational Modelling of Cardiac Electrophysiological Changes in Malarial Fever, 43, 3–6. https://doi.org/10.22489/CinC.2016.315-27 (Conference publication)
-![image](https://github.com/user-attachments/assets/fecfa152-c7d4-48d8-a2bc-c287993bd62a)
