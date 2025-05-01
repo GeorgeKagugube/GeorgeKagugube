@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George W Kagugube
 
-I am a Biological Scientist interested in applying genomics, imaging and computational approaches to understanding metal neurotoxicity.
+I am a Bioscientist with more than three years of experience in genomic data analysis and scientific programming in Python, R, and R. I am interested in applying computational techniques such as machine learning to the analysis of scientific data, with a focus on interpreting such data sets to understand scientific concepts and gain mechanistic insights into disease processes.
 
 ## 🔬 Current Focus (Metal neurotoxicity, through genomics and computational approaches)
 - Bulk and single-cell RNA-seq
