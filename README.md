@@ -18,6 +18,7 @@ I am a Bioscientist with more than three years of experience in genomic data ana
 - [Fraxinus Mandshurica _De Novo_ Genome Assembly](https://github.com/GeorgeKagugube/fraxinus-genome-assembly)
 
 # 📁 Publications
+Kagugube, G. W., & Tuschl, K. (2027). A high-resolution 3D map of manganese in the brain of a zebrafish model of manganese neurotoxicity. [Dataset]. European Synchrotron Radiation Facility. doi.org/10.15151/ESRF-ES-1933457417
 
 Issit, T. et al. The hepcidin-ferroportin axis influences mitochondrial function, proliferation, and migration in pulmonary artery endothelial and smooth muscle cells. doi: https://doi.org/10.1101/2023.10.09.561497
 
