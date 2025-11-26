@@ -70,7 +70,7 @@ Atkinson, L., Basharat, A., Benson, A. P., Colman, M. A., Holden, A. V, Kagugube
 
 ## 📫 Get in touch
 
-- 📧 Email: [YOUR.EMAIL@domain.com](mailto:ggrwilliam@yahoo.co.uk)  
-- 💼 LinkedIn: [linkedin.com/in/YOUR-LINK]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/george-william-kagugube-a63b5245/))  
+- 📧 Email: [ggrwilliam@yahoo.co.uk](mailto:ggrwilliam@yahoo.co.uk)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/george-william-kagugube-a63b5245/](https://www.linkedin.com/in/george-william-kagugube-a63b5245/)
 
-If you’re interested in **bioinformatics, calcium imaging, genome assembly, or data systems for community finance**, I’m always happy to connect or collaborate.
+If you’re interested in **bioinformatics, calcium imaging, genome assembly, data science and analytics or data systems for community finance**, I’m always happy to connect or collaborate.
