@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George W Kagugube
 
-I am a Bioscientist with more than three years of experience in genomic data analysis and scientific programming in Python, R, and R. I am interested in applying computational techniques such as machine learning to the analysis of scientific data, with a focus on interpreting such data sets to understand scientific concepts and gain mechanistic insights into disease processes.
+I am a Bioscientist with more than three years of experience in genomic data analysis and scientific programming in Python, R, and R. I am interested in applying computational techniques such as machine learning to the study of scientific data, with a focus on interpreting such data sets to understand scientific concepts and gain mechanistic insights into disease processes.
 
 ## 🔬 Current Focus (Metal neurotoxicity, through genomics and computational approaches)
 - Bulk and single-cell RNA-seq
@@ -26,3 +26,16 @@ Cui, J. (Katie) et al. Impact of Pathological Vascular Remodelling on Right Vent
 
 Atkinson, L., Basharat, A., Benson, A. P., Colman, M. A., Holden, A. V, Kagugube, G. W., & Pervolaraki, E. 92016). Computational Modelling of Cardiac Electrophysiological Changes in Malarial Fever, 43, 3–6. https://doi.org/10.22489/CinC.2016.315-27 (Conference publication)
 
+## 📈 How I like to work
+
+- Reproducible by design (Snakemake, environment files, clear README).
+- Strong emphasis on **linking code → figures → biological interpretation**.
+- Comfortable working across wet-lab context, data analysis, and stakeholder-facing reports/dashboards.
+
+## 📫 Get in touch
+
+- 📧 Email: [YOUR.EMAIL@domain.com](mailto:ggrwilliam@yahoo.co.uk)  
+- 💼 LinkedIn: [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)  
+- 🧪 ORCID / Google Scholar: [YOUR-ID-LINK]
+
+If you’re interested in **bioinformatics, calcium imaging, genome assembly, or data systems for community finance**, I’m always happy to connect or collaborate.
