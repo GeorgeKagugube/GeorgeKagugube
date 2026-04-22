@@ -51,6 +51,7 @@
 </table>
 ---
 ## 📁 Featured Projects
+
 - [Bulk RNAseq Analysis](https://github.com/GeorgeKagugube/bulk-rnaseq-zebrafish-mouse-human)
 - [scRNAseq of Zebrafish Development](https://github.com/GeorgeKagugube/scRNAseq-zebrafish-development)
 - [Two-Photon Imaging Analysis](https://github.com/GeorgeKagugube/two-photon-calcium-zebrafish)
