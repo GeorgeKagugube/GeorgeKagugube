@@ -4,8 +4,8 @@
 
 
 - 🧠 I build **production-grade bioinformatics pipelines** - reproducible, cloud-ready, and designed to scale from a single lab to a multi-team platform.
-- 🧬 My work spans **Single-cell RNA-seq, Bulk RNA-seq, Spatial Transcriptomics, WGS and 2-p calcium imaging and multi-model integration**, with a focus on making complex analyses portable across datasets and teams.
-- 💸 Based in London | Open to Senior computational roles | Pipeline enginearing contracts
+- 🧬 My work spans **Single-cell RNA-seq, Bulk RNA-seq, Spatial Transcriptomics, WGS and 2-p calcium imaging and multi-modal integration**, with a focus on making complex analyses portable across datasets and teams.
+- 💸 Based in London | Open to Senior computational roles | Pipeline engineering contracts
 
 ---
 
@@ -17,7 +17,7 @@
 - **Modalities:**
   - Bulk RNA-seq (DESeq2, GSEA, GO/KEGG)
   - Single-cell RNA-seq (Suerat, scanpy)
-  - Spatial transcriptomics (
+  - Spatial transcriptomics (Squidpy (Python), Seurat (R),Giotto (R),Scanpy (Python))
   - Two-photon GCaMP7s imaging of zebrafish optic tectum
   - Behaviour (looming & OKR) with eye + tail tracking
   - Primary neuronal cultures (Ca²⁺ indicators, ROS, mitochondrial assays)
