@@ -1,11 +1,11 @@
 # 👋 Hi, I'm George W Kagugube
 
-**Bioinformatics & Computational Neuroscience PhD candidate**  
+**Senior Computational Biologist | Pipeline Systems Engineer | AI-Driven Biology**  
 Integrating *manganese neurotoxicity*, *genome assembly*, and *data-driven community finance*.
 
-- 🧠 I study how **manganese (Mn) overload disrupts brain function**, using zebrafish and mouse models.
-- 🧬 I build **reproducible omics pipelines** (bulk & single-cell RNA-seq, genome assembly, calcium imaging).
-- 💸 I also develop **data systems for SACCOs and agro-based businesses** (savings/loans tracking, dashboards, analytics).
+- 🧠 I build **production-grade bioinformatics pipelines** - reproducible, cloud-ready, and designed to scale from a single lab to a multi-team platform.
+- 🧬 My work spans **Single-cell RNA-seq, Bulk RNA-seq, Spatial Transcriptomics, WGS and 2-p calcium imaging and multi-model integration**, with a focus on making complex analyses portable across datasets and teams.
+- 💸 Based in London | Open to Senior computational roles | Pipeline enginearing contracts
 
 ---
 
