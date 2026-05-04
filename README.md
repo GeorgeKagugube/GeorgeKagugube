@@ -84,7 +84,7 @@ Atkinson, L., Basharat, A., Benson, A. P., Colman, M. A., Holden, A. V, Kagugube
 ---
 ## 📫 Get in touch
 
-- 📧 Email: [your-new-email@gmail.com](mailto:george.kagugube@latticebioflow.com)
+- 📧 Email: [george.kagugube@latticebioflow.com](mailto:george.kagugube@latticebioflow.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/george-william-kagugube/
 
 If you're working on a pipeline reproducibility, scaling, or automation challenge in computational biology, feel free to reach out.
